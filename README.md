@@ -1,9 +1,9 @@
 <h1 align="center">Hey there! 👋 I'm Vinay Kumar</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?logo=gmail"></a>
-  <a href="https://your-portfolio.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vinay-kumar99/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
+  <a href="mailto:Vinaykumar@gmail.com@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?logo=gmail"></a>
+  <a href="https://vinaykumar99.netlify.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white"></a>
 </p>
 
 ---
@@ -50,8 +50,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Vinay's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinny0999&show_icons=true&theme=radical" alt="Vinay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinny0999&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---

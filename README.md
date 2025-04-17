@@ -74,27 +74,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinny0999&show_icons=true&theme=radical" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinny0999&layout=compact&theme=radical" />
 </p>
 
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Vinny0999/Vinny0999/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-### 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
 
 <p align="center"><i>“Stay curious. Code smart. Collaborate always.”</i></p>

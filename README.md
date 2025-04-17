@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Vinay Kumar</h1>
-<p align="center">💻 Software Engineer | 🚀 Full Stack Developer | 🌍 Explorer</p>
+<p align="center">💻 Software Engineer | 🚀 Full Stack Developer | 🌍 Tech Explorer</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vinay-kumar99/" target="_blank">
@@ -15,12 +15,12 @@
 
 ---
 
-### 🚀 About Me
+### 🔥 About Me
 
-- 💻 I'm a **Software Engineer** & **Full Stack Developer**
-- 🧠 Passionate about tech, solving problems & building things from scratch
-- 🎨 Javascript, Node.js, React are my playgrounds
-- 🌍 I love traveling, coding in cafés, and discovering cultures!
+- 🧑‍💻 Software Engineer & Full Stack Developer  
+- 🔨 I love turning ideas into real-world products  
+- 🌐 Exploring new tech and cloud platforms is my thing  
+- 🎯 Currently building apps with React, Django, AWS & more  
 
 ---
 
@@ -28,36 +28,73 @@
 
 #### 🧠 Programming Languages
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=101010)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)
-![Swift](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-#### 🧩 Frontend & Web
+#### 🎨 Frontend Libraries & Frameworks
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=101010)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
-![Sass](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-#### ⚙️ Backend & Mobile
+#### ⚙️ Backend Libraries & Frameworks
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-#### ☁️ DevOps & Cloud
+#### 🗃️ Databases
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=101010)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### 🧰 Tools & IDEs
+#### 🚀 Cloud & Hosting
 
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)
-![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+#### 🛠️ Project Management & DevOps
 
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/-ServiceNow-00C7B7?style=for-the-badge&logo=servicenow&logoColor=white)
 
-<p align="center"><i>“Keep grinding. Code harder. Travel farther.”</i></p>
+#### 💬 Soft Skills
+
+`Problem-Solving` • `Teamwork & Collaboration` • `Communication` • `Adaptability`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinny0999&show_icons=true&theme=radical" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinny0999&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Vinny0999/Vinny0999/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center"><i>“Stay curious. Code smart. Collaborate always.”</i></p>

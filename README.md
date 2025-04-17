@@ -58,32 +58,6 @@
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinny0999&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinny0999&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Vinny0999/Vinny0999/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-### 💡 Random Developer Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
-</p>
-
----
 
 <p align="center"><i>“Keep grinding. Code harder. Travel farther.”</i></p>

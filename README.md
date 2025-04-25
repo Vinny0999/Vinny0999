@@ -5,10 +5,10 @@
   <a href="https://www.linkedin.com/in/vinay-kumar99/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:Vinaykumar@gmail.com">
+  <a href="mailto:Vinaykumar100799@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://vinaykumar99.netlify.app" target="_blank">
+  <a href="https://vinny999.vercel.app)" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -18,7 +18,7 @@
 ### 🔥 About Me
 
 - 🧑‍💻 Software Engineer & Full Stack Developer  
-- 🔨 I love turning ideas into real-world products  
+- 🔨 I love turning ideas into real-world products 
 - 🌐 Exploring new tech and cloud platforms is my thing  
 - 🎯 Currently building apps with React, Django, AWS & more  
 
